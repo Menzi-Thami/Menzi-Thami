@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Menzi-Thami
-- 👀 I’m interested in Information Technology, Front End Developer
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Information Technology, Full Stack Developer
+- 🌱 I’m currently learning JavaScript, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
