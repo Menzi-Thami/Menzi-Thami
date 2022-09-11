@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Menzi-Thami
 - 👀 I’m interested in Information Technology, Full Stack Developer
-- 🌱 I’m currently learning ASP.NET 6, JavaScript
-- 💞️ I’m looking to collaborate on C#, ASP.NET
+- 🌱 Currently learning ASP.NET 6, JavaScript still teaching me how to REACT.
+- 💞️ I’m looking to collaborate on C#, ASP.NET. SQL projects.
 - 📫 How to reach me : linkedin.com/in/thamsanqa-menzi-741550218
 
 <!---
